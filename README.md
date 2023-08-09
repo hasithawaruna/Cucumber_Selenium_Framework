@@ -72,9 +72,9 @@ The Page Object Model (POM) in Playwright is a design pattern used to organize w
     │
     ├── features/                                  # Feature Files
     │   |
-    │   ├── add.feature                   
-    │   ├── filter.feature      
-    │   ├── login.feature  
+    │   ├── Add.feature                   
+    │   ├── Filter.feature      
+    │   ├── Login.feature  
     │
     ├── target/   
     │         ├──cucumber-reports.html             #  Test report of the tests executed with screenshots

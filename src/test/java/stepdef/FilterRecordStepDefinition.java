@@ -13,13 +13,13 @@ import pages.LoginPage;
  * Date: 8/7/2023
  * Time: 3:29 PM
  */
-public class FilterStepDefinition extends DriverInit {
+public class FilterRecordStepDefinition extends DriverInit {
 
     HomePage homePage = new HomePage(DriverInit.Driver);
     LoginPage loginPage = new LoginPage(DriverInit.Driver);
 
 
-    public FilterStepDefinition() {
+    public FilterRecordStepDefinition() {
 
     }
 
