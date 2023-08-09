@@ -101,5 +101,5 @@ A "Feature File" is a text document formatted in Gherkin language. It outlines h
 
 ## Reporting
 
-Once the execution is done you can find the HTML report under /Target folder
+Once the execution is done you can find a report called 'cucumber-reports.html' under /target folder.
 
